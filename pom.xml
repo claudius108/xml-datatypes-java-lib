@@ -6,7 +6,7 @@
 
 	<groupId>ro.kuberam.libs.java</groupId>
 	<artifactId>xml-datatypes</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<name>Library for EXPath Datatypes Module</name>
 	<url>http://kuberam.ro/specs/expath/datatypes/datatypes.html</url>
 
