@@ -4,7 +4,7 @@ package ro.kuberam.libs.java.xmlDatatypes;
 /**
  * Module description.
  * 
- * @author Claudius Teodorescu <claudius.teodorescu@gmail.com>
+ * @author Claudius Teodorescu {@literal <claudius.teodorescu@gmail.com>}
  */      
 public class ModuleDescription {
       public final static String VERSION = "0.0.2";
